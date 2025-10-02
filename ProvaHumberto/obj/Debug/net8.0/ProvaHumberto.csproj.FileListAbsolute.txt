@@ -1,0 +1,7 @@
+C:\Users\Júlio\Desktop\ProvaHumberto\obj\Debug\net8.0\ProvaHumberto.csproj.AssemblyReference.cache
+C:\Users\Júlio\Desktop\ProvaHumberto\obj\Debug\net8.0\ProvaHumberto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Júlio\Desktop\ProvaHumberto\obj\Debug\net8.0\ProvaHumberto.AssemblyInfoInputs.cache
+C:\Users\Júlio\Desktop\ProvaHumberto\obj\Debug\net8.0\ProvaHumberto.AssemblyInfo.cs
+C:\Users\Júlio\Desktop\ProvaHumberto\obj\Debug\net8.0\ProvaHumberto.csproj.CoreCompileInputs.cache
+C:\Users\Júlio\Desktop\ProvaHumberto\obj\Debug\net8.0\ProvaHumberto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Júlio\Desktop\ProvaHumberto\obj\Debug\net8.0\ProvaHumberto.MvcApplicationPartsAssemblyInfo.cache
